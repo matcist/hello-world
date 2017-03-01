@@ -1,5 +1,6 @@
 # hello-world
-<h1 id=color>There is some changes</h1>
-.color:red;
-<h5>One</h5>
+<h1>There is some changes</h1>
+
+<h2>One</h2>
+
 first repository
